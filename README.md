@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aksupee, 31 years old software development student from Southern Finland.
+- 👋 Hi, I’m @aksupee, 32 years old software development student from Southern Finland.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning to create short demos using OpenGL.
+- 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me, here on linkedin.
 
 <!---
