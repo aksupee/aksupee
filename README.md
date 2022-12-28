@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aksupee, 32 years old software development student from Southern Finland.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Unity and C#
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me, here on linkedin.
 
 <!---
